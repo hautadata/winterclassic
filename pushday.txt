@@ -1,0 +1,3 @@
+Nyt luodaan testitiedosto, joka pusketaan githbubiin!
+
+Tämä tiedosto on luotu Git Bashissa komennolla $ nano pushday.txt
